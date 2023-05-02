@@ -1,11 +1,11 @@
 # Hey There! 👋
 **I'm Wisdak** - I'm a Flutter developer, currently, I'm an undergrat at UEW Studying ICT (Software Engineering), and I'm so interested in Dart/Flutter, Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/@wisdak1"> **Instagram.**</a><a href="https://twitter.com/wisdak1"> **Twitter.**</a>
-### 💻 Tech Stack:
+# 💻 Tech Stack:
 <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,photoshop,xd,vscode,figma,git,github&theme=dark" />
   </a>
   
-### 🌐 Socials:
+# 🌐 Socials:
 <a href="https://instagram.com/wisdak1">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
@@ -26,7 +26,7 @@
 
 ![status](https://camo.githubusercontent.com/ad8ea6fc9da53ab080110622c5b283bc938578fb067b05059d91aab2883fce4b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d6972626179617430266c6162656c3d50726f66696c65253230766965777326636f6c6f723d383034326663267374796c653d706c6173746963) 
 
-  ## 💰 You can help me by Donating
+# 💰 You can help me by Donating
 <a href="https://www.buymeacoffee.com/wisdak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
