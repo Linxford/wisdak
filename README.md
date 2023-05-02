@@ -8,6 +8,8 @@
 # 🌐 Socials:
 <a href="https://instagram.com/wisdak1">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a><a href="https://twitter.com/wisdak1">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" />
   </a>
   <a href="https://t.me/wisdak1" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/telegram-logo-4.png" height="50"  /></a>
   <a href="https://www.buymeacoffee.com/wisdak" target="_blank" rel="noreferrer"><img src="https://cdn.dribbble.com/users/3349322/avatars/normal/ef2dbd3c4c50e2b4f7c916f1e763e5b6.jpg?1605768164" height="50"  /></a>
