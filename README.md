@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Wisdom Kwabena** - I'm a Flutter developer, currently, I'm an undergrat at UEW Studying ICT (Software Engineering), and I'm so interested in Dart/Flutter, Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/@wisdak1"> **Instagram.**</a><a href="https://twitter.com/wisdak1"> **Twitter.**</a>
+**I'm Wisdom Kwabena** - I'm a Flutter developer, currently, I'm an undergrat at UEW Studying ICT (Software Engineering), and I'm so interested in Dart/Flutter, Presently, I'm developing Software & apps with Flutter, You can see my portfolio on <a href="https://instagram.com/@wisdakdev"> **Instagram.**</a><a href="https://twitter.com/wisdakdev"> **Twitter.**</a>
 # 💻 Tech Stack:
 <a href="#">
     <img src="https://skillicons.dev/icons?i=vscode,dart,flutter,css,html,java,js,git,github,mongodb,firebase,photoshop,xd,figma,linux&theme=dark" />
