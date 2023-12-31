@@ -22,8 +22,8 @@
 <details>
  <summary> <h3>Github Stats <h3>⚡</summary>
     
-![](https://github-readme-stats.vercel.app/api?username=wisdak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wisdak&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=linxford&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=linxford&theme=tokyonight&hide_border=false)<br/>
 <!-- [![wisdak's GitHub | Topics](https://stats.quine.sh/wisdak/topics-over-time?theme=dark)](https://quine.sh)<br/> -->
 <!-- [![wisdak's GitHub | Stats](https://stats.quine.sh/wisdak/github?theme=dark)](https://quine.sh) -->
 </details>
